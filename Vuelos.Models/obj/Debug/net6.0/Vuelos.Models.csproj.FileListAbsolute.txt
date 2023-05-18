@@ -1,0 +1,12 @@
+C:\Users\migue\source\repos\NewShore vuelos\Vuelos.Models\bin\Debug\net6.0\Vuelos.Models.deps.json
+C:\Users\migue\source\repos\NewShore vuelos\Vuelos.Models\bin\Debug\net6.0\Vuelos.Models.dll
+C:\Users\migue\source\repos\NewShore vuelos\Vuelos.Models\bin\Debug\net6.0\Vuelos.Models.pdb
+C:\Users\migue\source\repos\NewShore vuelos\Vuelos.Models\obj\Debug\net6.0\Vuelos.Models.csproj.AssemblyReference.cache
+C:\Users\migue\source\repos\NewShore vuelos\Vuelos.Models\obj\Debug\net6.0\Vuelos.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\source\repos\NewShore vuelos\Vuelos.Models\obj\Debug\net6.0\Vuelos.Models.AssemblyInfoInputs.cache
+C:\Users\migue\source\repos\NewShore vuelos\Vuelos.Models\obj\Debug\net6.0\Vuelos.Models.AssemblyInfo.cs
+C:\Users\migue\source\repos\NewShore vuelos\Vuelos.Models\obj\Debug\net6.0\Vuelos.Models.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\NewShore vuelos\Vuelos.Models\obj\Debug\net6.0\Vuelos.Models.dll
+C:\Users\migue\source\repos\NewShore vuelos\Vuelos.Models\obj\Debug\net6.0\refint\Vuelos.Models.dll
+C:\Users\migue\source\repos\NewShore vuelos\Vuelos.Models\obj\Debug\net6.0\Vuelos.Models.pdb
+C:\Users\migue\source\repos\NewShore vuelos\Vuelos.Models\obj\Debug\net6.0\ref\Vuelos.Models.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vQCdIEmH2bPHASvQDk4MnQiDxW1FEulcICJYNJ0TC/w=",
+  "Source": "Vuelos.WebApi",
+  "BasePath": "_content/Vuelos.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
